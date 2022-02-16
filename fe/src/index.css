@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+        "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+        "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+}
+
+.stats-table {
+    table-layout: auto !important;
+}
+
+.team-playing-today {
+    background-color: #b38184 !important;
+}
+
+.probable-goalie {
+    background-color: #f7e4be;
+}
+
+.confirmed-goalie {
+    background-color: #f0b49e;
+}
+
+.win-loss-otl-column {
+    width: 4.5%;
+}
+
+.analytics-column {
+    width: 12.5%;
+}
+
+.spinner {
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    z-index: -1;
+    width: 3rem !important;
+    height: 3rem !important;
+    color: #0a58ca !important;
+    border-width: 0.3rem !important;
+    border-left-color: transparent !important;
+}
