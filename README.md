@@ -1,5 +1,7 @@
 # Hockey Stats 
 
+https://hockey-stats.herokuapp.com/
+
 This is a personal project combining two of my favorite things: hockey and software development. 
 
 I hope it inspires your next project!
